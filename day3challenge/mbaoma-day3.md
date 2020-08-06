@@ -1,14 +1,7 @@
+# Git status
 
-**Git Status** 
+![Git status](https://user-images.githubusercontent.com/49791498/89552156-b1572000-d803-11ea-9e57-55862b7b596d.png)
 
-![image](https://user-images.githubusercontent.com/49791498/80870894-2a912500-8ca1-11ea-9d50-c854f0d8d8dd.png)
+# Text Editor
 
-**Git Log** 
-
-![image](https://user-images.githubusercontent.com/49791498/80870906-53191f00-8ca1-11ea-914b-5be6e78e8eb7.png)
-
-**Git commit editor** 
-
-![image](https://user-images.githubusercontent.com/49791498/80870958-b3a85c00-8ca1-11ea-8a56-e49c2cb0ede5.png)
-
-
+![Text Editor](https://user-images.githubusercontent.com/49791498/89553336-4c9cc500-d805-11ea-86ca-82b09d7f74fe.png)
