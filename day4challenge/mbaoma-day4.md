@@ -1,35 +1,32 @@
-**Markdown practice: Creating tables, lists, headers and any other content type**
+# Some Markdown Concepts
 
-**An example of Unordered Lists**
-* day 1
-* day 2
-* day 3
-* day 4
+- H1
 
-  this is a line without a paragraph
-  
-  To have a line break without a paragraph,you will need to use two trailing spaces.
-  
-  this is another line without a paragraph
-  
-  last line...
-  
-~~scratch this~~
+---
 
-# H1
+- H2
 
-## H2
+---
 
-### H3
+```some python code
+name = 'Molly May'
+print(name)
+```
 
-#### H4
+Using **Markdown** has a lot of benefits, _it helps with neat editing_ for a start.
 
-##### H5
+Read more here [markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-###### H6
+**Sample Table**
 
-**Markdown Preview in VS Code** 
-![image](https://user-images.githubusercontent.com/49791498/80871853-303d3980-8ca6-11ea-86e5-bf8d986a6b57.png)
+| Days      |  Challenge  |
+| --------- | :---------: |
+| Monday    | Challenge 1 |
+| Tuesday   | Challenge 2 |
+| Wednesday | Challenge 3 |
+| Thursday  | Challenge 4 |
 
 
-  
+# Screenshot of my Markdown Preview
+
+![image](https://user-images.githubusercontent.com/49791498/89664110-8ede0900-d8ce-11ea-83b6-1f3da32d3e40.png)
