@@ -1,5 +1,2 @@
-
-
-**Git help and branches**
-
-![image](https://user-images.githubusercontent.com/49791498/81304973-add1c280-9075-11ea-8810-bd1a020118c2.png)
+# Screenshot of second branch
+![image](https://user-images.githubusercontent.com/49791498/89951463-62562400-dc23-11ea-9306-46792124e824.png)
